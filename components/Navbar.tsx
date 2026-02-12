@@ -21,9 +21,9 @@ const Navbar: React.FC = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2">
             <div className="w-8 h-8 bg-brand-800 rounded-full flex items-center justify-center text-white font-bold text-lg">
-              L
+              K
             </div>
-            <span className="font-semibold text-xl tracking-tight text-gray-900">Lumina</span>
+            <span className="font-semibold text-xl tracking-tight text-gray-900">KPP</span>
           </Link>
 
           {/* Desktop Nav */}

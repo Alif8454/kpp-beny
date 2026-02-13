@@ -43,7 +43,7 @@ const Footer: React.FC = () => {
               <a href="#" className="text-brand-300 hover:text-white transition-colors"><Twitter size={20} /></a>
               <a href="#" className="text-brand-300 hover:text-white transition-colors"><Facebook size={20} /></a>
             </div>
-            <p className="text-xs text-brand-400">© 2024 Lumina Merch. All rights reserved.</p>
+            <p className="text-xs text-brand-400">© 2024 KPP. All rights reserved.</p>
           </div>
         </div>
       </div>
